@@ -58,7 +58,7 @@ doctor-booking-app/
 
 ## Live Demo
 
-Check out the live version here: [Doctor Booking App](doctor-booking-app-shehab.netlify.app)
+Check out the live version here: [Doctor Booking App](https://doctor-booking-app-shehab.netlify.app)
 
 ## Setup Instructions
 
